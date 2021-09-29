@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPG-Crafty-pickr", "RPG-Crafty-pickr.csproj", "{5B20B321-AB3D-4311-A750-B07BB46CED9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B20B321-AB3D-4311-A750-B07BB46CED9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B20B321-AB3D-4311-A750-B07BB46CED9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B20B321-AB3D-4311-A750-B07BB46CED9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B20B321-AB3D-4311-A750-B07BB46CED9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B959E775-82F7-4672-A6FA-10D0F7013EF2}
+	EndGlobalSection
+EndGlobal

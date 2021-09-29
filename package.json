@@ -1,0 +1,8 @@
+{
+  "name": "myproject",
+  "version": "1.0.0",
+  "devDependencies": {
+    "jasmine": "^3.9.0",
+    "jest": "^27.2.1"
+  }
+}
